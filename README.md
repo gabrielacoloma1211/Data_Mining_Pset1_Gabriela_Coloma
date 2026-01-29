@@ -91,8 +91,8 @@ Configurados para las tres entidades:
 - trigger_items  
 
 Frecuencia: @once  
-Ejecución registrada: 2025-09-12 (UTC)  
-Equivalencia Guayaquil: UTC -5 → 17:00 hora local ≈ 22:00 UTC  
+Ejecución registrada: 2026-01-27 04:48 (UTC)
+Equivalencia Guayaquil: UTC −5 → 23:48 hora local (2026-01-26) ≈ 04:48 UTC
 Política: deshabilitados automáticamente tras ejecución (completed).  
 
 ---
