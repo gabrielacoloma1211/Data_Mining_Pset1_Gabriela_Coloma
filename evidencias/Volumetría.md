@@ -4,6 +4,8 @@
 
 
 ***Idempotencia***
+
+
 Se da porque en el exporter usamos UPSERT, que garantiza que si un registro con la misma clave primaria (id) ya existe en la tabla, no se inserta un duplicado sino que se actualiza el registro existente.
 
 De esta forma:
