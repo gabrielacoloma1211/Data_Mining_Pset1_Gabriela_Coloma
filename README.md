@@ -96,6 +96,8 @@ Ejecución registrada: 2026-01-27 04:48 (UTC)
 
 
 Equivalencia Guayaquil: UTC −5 → 23:48 hora local (2026-01-26) ≈ 04:48 UTC
+
+
 Política: deshabilitados automáticamente tras ejecución (completed).  
 
 ---
